@@ -1,6 +1,6 @@
 ARCHES builds beautiful custom webpages and e-commerce stores with attention to detail and care for you, your work, and your audience.
 
-✓ fast
+>✓ fast
 
 ✓ 100% custom
 
