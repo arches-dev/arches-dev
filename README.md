@@ -4,13 +4,13 @@ ARCHES builds beautiful custom webpages and e-commerce stores with attention to 
 
 >✓ 100% custom
 
-✓ responsive → support desktop, laptop, tablet & mobile
+>✓ responsive → support desktop, laptop, tablet & mobile
 
-✓ end-to-end → design, development & hosting
+>✓ end-to-end → design, development & hosting
 
-✓ 1-on-1 consultation
+>✓ 1-on-1 consultation
 
-✓ continuous support
+>✓ continuous support
 
 
 drop us a line at info@arches.dev, we look forward to hearing from you.
