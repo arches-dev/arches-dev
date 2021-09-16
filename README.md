@@ -1,4 +1,4 @@
-ARCHES builds beautiful custom webpages and e-commerce stores with attention to detail and care for you, your work, and your audience.
+ARCHES supports you digital ventures with web design and web development, building beautiful custom webpages and e-commerce stores with attention to detail and care for you, your work, and your audience.
 
 >✓ fast\
 ✓ 100% custom\
